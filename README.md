@@ -1,4 +1,4 @@
-<h2>Hey 👋, I'm Khaled Mohamed</h2>
+<h2>Hey I'm Khaled Mohamed</h2>
 
 <p>
 I'm a <strong>Computer Science student</strong> passionate about programming, problem solving,
@@ -19,18 +19,18 @@ and working on academic & personal projects.
 </a>
 </p>
 
-<p>🚀 Always learning, always improving</p>
+<p> Always learning, always improving</p>
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/>
 
-<h2>⚡️ Khaled Mohamed</h2>
+<h2> Khaled Mohamed</h2>
 <ul>
-  <li>🎓 I'm a <strong>Computer Science student</strong>.</li>
-  <li>💻 Interested in <strong>Object-Oriented Programming, Data Structures, and Algorithms</strong>.</li>
-  <li>🧠 Currently learning <strong>Java, OOP concepts, and problem solving</strong>.</li>
-  <li>🏆 Practice competitive programming (Codeforces / LeetCode).</li>
-  <li>👨‍💻 All my projects are available on <a href="https://github.com/YOUR_USERNAME">GitHub</a>.</li>
-  <li>📌 I like writing clean and structured code.</li>
+  <li> I'm a <strong>Computer Science student</strong>.</li>
+  <li> Interested in <strong>Object-Oriented Programming, Data Structures, and Algorithms</strong>.</li>
+  <li> Currently learning <strong>Java, OOP concepts, and problem solving</strong>.</li>
+  <li> Practice competitive programming (Codeforces / LeetCode).</li>
+  <li> All my projects are available on <a href="https://github.com/YOUR_USERNAME">GitHub</a>.</li>
+  <li> I like writing clean and structured code.</li>
 </ul>
 
 <h2> Competitive Programming Profiles</h2>
@@ -42,7 +42,7 @@ and working on academic & personal projects.
 </a>
 
 
-<h2>🚀 Some Tools & Technologies I Use</h2>
+<h2> Some Tools & Technologies I Use</h2>
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="25" />
