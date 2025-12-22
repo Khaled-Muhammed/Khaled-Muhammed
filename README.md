@@ -33,6 +33,15 @@ and working on academic & personal projects.
   <li>📌 I like writing clean and structured code.</li>
 </ul>
 
+<h2> Competitive Programming Profiles</h2>
+<a href="https://codeforces.com/profile/Khaled_moham3d">
+  <img src="https://img.shields.io/badge/Codeforces-Problem%20Solving-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
+</a>
+<a href="https://vjudge.net/user/Khalid_Moham3d">
+  <img src="https://img.shields.io/badge/VJudge-Competitive%20Programming-orange?style=flat-square" />
+</a>
+
+
 <h2>🚀 Some Tools & Technologies I Use</h2>
 
 <p align="left">
