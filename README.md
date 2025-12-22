@@ -59,10 +59,3 @@ and working on academic & personal projects.
 </p>
 
 
-<h2>📊 GitHub Stats</h2>
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true" />
-
-<p>
-<img src="https://hits.dwyl.com/YOUR_USERNAME/YOUR_USERNAME.svg?style=flat-square" />
-</p>
