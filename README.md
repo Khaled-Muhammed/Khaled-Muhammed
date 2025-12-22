@@ -54,6 +54,7 @@ and working on academic & personal projects.
     <td align="center">
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/><br/>
       <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/><br/>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
     </td>
     <td align="center">
@@ -66,6 +67,7 @@ and working on academic & personal projects.
     </td>
   </tr>
 </table>
+
 
 <h2> Some Tools & Technologies I Use</h2>
 
