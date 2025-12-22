@@ -47,8 +47,6 @@ and working on academic & personal projects.
 <table align="center">
   <tr>
     <th>💻 Core Languages</th>
-    <th>📱 Android & Mobile</th>
-    <th>🏆 Competitive Programming</th>
   </tr>
   <tr>
     <td align="center">
@@ -57,16 +55,9 @@ and working on academic & personal projects.
       <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/><br/>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Java-Android-orange?style=for-the-badge&logo=android&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Codeforces-Problem%20Solving-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/VJudge-Contests-orange?style=for-the-badge"/>
-    </td>
   </tr>
 </table>
+
 
 
 <h2> Some Tools & Technologies I Use</h2>
