@@ -23,7 +23,7 @@ and working on academic & personal projects.
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/>
 
-<h2>⚡️ A Few Quick Facts</h2>
+<h2>⚡️ Khaled Mohamed</h2>
 <ul>
   <li>🎓 I'm a <strong>Computer Science student</strong>.</li>
   <li>💻 Interested in <strong>Object-Oriented Programming, Data Structures, and Algorithms</strong>.</li>
