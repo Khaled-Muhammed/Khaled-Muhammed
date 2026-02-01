@@ -21,8 +21,6 @@ and working on academic & personal projects.
 
 <p> Always learning, always improving</p>
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/>
-
 <h2> Khaled Mohamed</h2>
 <ul>
   <li> I'm a <strong>Computer Science student</strong>.</li>
