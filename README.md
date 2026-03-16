@@ -1,5 +1,8 @@
 <h2>Hey I'm Khaled Mohamed</h2>
-
+<p>
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-Khaled%20Mohamed-181717?style=flat-square&logo=github" />
+</a>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -29,10 +32,6 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<p>
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-Khaled%20Mohamed-181717?style=flat-square&logo=github" />
-</a>
 <a href="#">
   <img src="https://img.shields.io/badge/Field-Computer%20Science-007ACC?style=flat-square" />
 </a>
