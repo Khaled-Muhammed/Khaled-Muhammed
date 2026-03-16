@@ -2,6 +2,12 @@
 <p>
 <a href="https://github.com/YOUR_USERNAME">
   <img src="https://img.shields.io/badge/GitHub-Khaled%20Mohamed-181717?style=flat-square&logo=github" />
+  <a href="#">
+  <img src="https://img.shields.io/badge/Field-Computer%20Science-007ACC?style=flat-square" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Student-Level%20Up-brightgreen?style=flat-square" />
+</a>
 </a>
 <h3>Things I code with</h3>
 <p>
@@ -32,12 +38,6 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<a href="#">
-  <img src="https://img.shields.io/badge/Field-Computer%20Science-007ACC?style=flat-square" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Student-Level%20Up-brightgreen?style=flat-square" />
-</a>
 </p>
 
 <p> Always learning, always improving</p>
