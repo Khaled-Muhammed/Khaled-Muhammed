@@ -1,17 +1,4 @@
 <h2>Hey I'm Khaled Mohamed</h2>
-<p>
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-Khaled%20Mohamed-181717?style=flat-square&logo=github" />
-  <a href="#">
-  <img src="https://img.shields.io/badge/Field-Computer%20Science-007ACC?style=flat-square" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Student-Level%20Up-brightgreen?style=flat-square" />
-</a>
-</a>
-
-<p> Always learning, always improving</p>
-
 <h2> Khaled Mohamed</h2>
 <ul>
   <li> I'm a <strong>Computer Science student</strong>.</li>
