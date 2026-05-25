@@ -20,23 +20,3 @@
   <img src="https://img.shields.io/badge/VJudge-Competitive%20Programming-orange?style=flat-square" />
 </a>
 
-
-<h1>Where to find me</h1>
-<p>
-  <a href="https://github.com/Khaled-Muhammed" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-  </a> 
-  
-  <a href="https://www.linkedin.com/in/khaled-mohamed-0b1a1b2b/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> 
-  
-  <a href="https://www.facebook.com/share/1DZHSdyYru/" target="_blank">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" />
-  </a>
-
-  <a href="https://x.com/KhMohmed17" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" />
-  </a>
-</p>
-
