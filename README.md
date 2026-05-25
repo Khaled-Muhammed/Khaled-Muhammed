@@ -9,27 +9,8 @@
   <li> I like writing clean and structured code.</li>
 </ul>
 
-<!-- <img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=Khaled_Moham3d" alt="Codeforces Stats" />
+<img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=Khaled_Moham3d" alt="Codeforces Stats" />
 <img src="https://img.shields.io/badge/Problems%20Solved-1850%2B-brightgreen" /> -->
-import requests
-
-handle = "Khaled_Moham3d"
-
-url = f"https://codeforces.com/api/user.status?handle={handle}"
-data = requests.get(url).json()
-
-if data["status"] != "OK":
-    print("Error")
-    exit()
-
-solved = set()
-
-for sub in data["result"]:
-    if sub["verdict"] == "OK":
-        problem = (sub["problem"]["contestId"], sub["problem"]["index"])
-        solved.add(problem)
-
-print(len(solved))
 
 <h2> Competitive Programming Profiles</h2>
 <a href="https://codeforces.com/profile/Khaled_moham3d">
