@@ -1,7 +1,7 @@
 <h2>Hey I'm Khaled Mohamed</h2>
 
 <img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=Khaled_Moham3d" alt="Codeforces Stats" />
-<img src="https://img.shields.io/badge/Problems%20Solved-1850%2B-brightgreen" /> -->
+
 
 <h2> Competitive Programming Profiles</h2>
 <a href="https://codeforces.com/profile/Khaled_moham3d">
