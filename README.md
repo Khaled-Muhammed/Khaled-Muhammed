@@ -16,6 +16,5 @@
 
 
 ## Links
-- LinkedIn: https://www.linkedin.com/in/hazemadelkhalel/
-- Email: mailto:hazemadelwork@gmail.com
-- Codeforces: https://codeforces.com/profile/Rokba
+- Email: mailto:khaled_muham3d.com
+- Codeforces: https://codeforces.com/profile/Khaled_Moham3d
