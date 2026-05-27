@@ -17,4 +17,4 @@
 
 ## Links
 - Email : mailto:khaled.muham3d@gmail.com
-- Codeforces: https ://codeforces.com/profile/Khaled_Moham3d
+- Codeforces: https://codeforces.com/profile/Khaled_Moham3d
