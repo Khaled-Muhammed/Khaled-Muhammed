@@ -5,7 +5,7 @@
 ## About me
 - Backend Engineering Intern at SYNTECX HUB
 
-- Computer Science Student (2nd Year)
+- Computer Science Student (2nd Year) @ Assiut University
 
 - Competitive Programmer: ECPC Finalist (2025) • IEEE Extreme Finals Qualifier (2025)
 
